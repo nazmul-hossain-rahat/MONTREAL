@@ -1,0 +1,97 @@
+color:#17191e;
+color:#ffdb00;
+
+
+font-family: 'Abel', sans-serif;
+font-size
+...........................................
+xxl xl lg      = md      =  sm       =   col
+  
+menu text
+
+18px            18px       16px         16px
+........................
+banner padding    
+100px top        100px        80px       80px
+80px bottom    80px         60px       60px
+
+service section
+
+project section
+...........................
+padding 
+80px to          80px top
+60px bottom       60px bottom
+
+<!-- work section 2 -->
+100px top
+ 80px
+ button section
+ 100 px top
+ 80 px bottom
+
+ slider2..............................
+
+100 px top
+ 80 px bottom
+
+ contact...........
+
+ 80px top
+ 60px bottom
+
+montreal@mail.com
+4116 Oak Avenue Chicago, IL 60607
+
+
+
+<!-- images section -->
+  <section class="images">
+    <div class="container">
+      <div class="col-lg-12">
+      <div class="row">
+        <!-- 1st row -->
+        <div class="img_wra1">
+          <div class="row">
+            <div class="col-lg-3">
+              <img src="images/img1.jpg" class="images-fluid">
+            </div>
+          </div>
+          
+        </div>
+        <!-- 1st row -->
+        <!-- 2nd row -->
+        <div class="img_wra2">
+          <div class="col-lg-9">
+          <div class="row">
+            <div class="col-lg-6">
+              <img src="images/img2.jpg" class="images-fluid">
+            </div>
+            <div class="col-lg-6">
+              <img src="images/img3.jpg" class="images-fluid">
+            </div>
+            <div class="col-lg-4">
+              <img src="images/img2.jpg" class="images-fluid">
+            </div>
+            <div class="col-lg-3">
+              <img src="images/img3.jpg" class="images-fluid">
+            </div>
+            <div class="col-lg-4">
+              <img src="images/img2.jpg" class="images-fluid">
+            </div>
+            </div>
+          </div>
+        </div>
+        <!-- 2nd row end -->
+
+      </div>
+    </div>
+    </div>
+  </section>
+  <!-- images section -->
+
+  1 w500  900
+  2.w700  450
+  3.w 500 450
+  4.418   450
+  5.w-700 450

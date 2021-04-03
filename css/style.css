@@ -1,0 +1,344 @@
+
+/*font-family: 'Abel', sans-serif;*/
+
+
+/*body*/
+body{
+
+font-family: 'Abel', sans-serif;
+font-size: 16px;
+font-weight: 400;
+color:#181a1f;
+}
+
+/*header start*/
+header{
+	background-color:#17191e;
+}
+.tog_yellow{
+	background-color: #ffda00;
+
+}
+.menu ul li a{
+	padding-right: 50px !important;
+	font-size: 18px;
+    font-weight: 700;
+    color: white !important;
+    text-align: right;
+    transition: .5s;
+
+
+}
+.menu ul li a:hover{
+	color:yellow !important;
+	transform: scale(0.9)!important;
+}
+
+
+
+/*slider start*/
+.slider{
+	background-color: #17191e;
+	    padding: 100px 0 80px;
+}
+.s_content h1{
+	font-size: 140px;
+	color:#ffdb00;
+}
+.s_content p {
+    color: white;
+}
+.btn_rahat{
+	    margin-bottom: 60px;
+	border-radius: 50px!important;
+    border: 1px solid yellow;
+    height: 65px;
+    width: 250px;
+    color: white;
+}
+.btn_rahat:hover{
+	background-color: yellow;
+}
+	
+
+/*slider end*/
+/*common content */
+.common_text {
+    background-color: yellow;
+    padding: 80px 60px;
+}
+.common_p {
+    padding: 0 60px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+/*common content */
+/*service content*/
+.service_section{
+	margin:80px 0 60px;
+}
+
+.ser_content{
+
+}
+.ser_content i {
+    padding: 20px 22px;
+    font-size: 25px;
+    background-color: yellow;
+}
+.ser_content h2{
+	padding:40px 0 40px;
+	font-size: 40px;
+	font-weight: 400;
+	color:yellow !important;
+}
+.ser_content p{
+	word-spacing: 1px;
+    letter-spacing: 2px;
+}
+/*button*/
+.coustom_btn{
+	margin-top: 30px;
+	width: 300px;
+    height: 60px;
+    border-radius: 50px;
+    color:#181a1f;
+	border:2px solid #ffda00 !important;
+    transition: .5s;
+}
+.coustom_btn:hover{
+	color:black;
+	background-color:yellow;
+	
+	
+}
+.coustom_btn:focus{
+	box-shadow: none !important;
+	outline: 0 !important;
+	transition: .4s
+}
+/*button*/
+/*project wra*/
+.project_section{
+	padding:80px 0 60px;
+  background-color: #17191e;
+}
+.project_wra{
+
+}
+.project_wra i{
+	font-size: 40px;
+	color:yellow;
+}
+.project_wra h2{
+	padding:40px 0 40px;
+	font-size: 60px;
+	color:white;
+}
+.project_wra p{
+	    color: yellow;
+    font-size: 20px;
+}
+
+
+
+/*project wra*/
+
+
+
+/*service content*/
+
+/*work section..........*/
+.work_type{
+		padding:100px 0 80px;
+}
+/*work 1*/
+.work_wra{}
+.work_wra h2 {
+    font-size: 40px;
+    color: yellow !important;
+    font-weight: 400;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+.work_wra p {
+    margin: 60px 0 80px;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+/*work 2.....................*/
+.work_wra2{
+
+}
+.work_wra2 button {
+    margin: 0 15px;
+}
+.btn_1{
+	width: 100%;
+    height: 40px;
+    background-color: yellow;
+    border: none;
+
+}
+.btn_2 {
+    border: 2px solid yellow;
+    width: 100%;
+    height: 40px;
+}
+.btn_2:hover{
+	background-color: yellow;
+}
+.btn_3{
+	border: 2px solid yellow;
+    width: 100%;
+    height: 40px;
+}
+.btn_3:hover{
+	background-color: yellow;
+}
+.btn-check:focus + .btn, .btn:focus {
+    
+    box-shadow:none;
+}
+
+/*work section..........*/
+/*images section.............*/
+.common_img1{
+	width: 100%;
+	height: 900px;
+}
+
+.common_img2{
+	width: 100%;
+	height: 450px;
+}
+
+
+/*images section.............*/
+
+/*button section*/
+.button_section{
+	padding:80px 0 100px;
+}
+/*button section*/
+
+/*slider 2*/
+.slider2 {
+    background: #17191e;
+    padding: 100px 0 80px;
+}
+.slider_p{
+	color:white;
+}
+.s_img{
+	margin-bottom: 100px;
+} 
+.s_img img {
+    padding: 0 26px;
+}
+.s_img img:first-child{
+	padding-left: 0;
+}
+.s_img img:last-child{
+	    padding-right: 0;
+}
+.cid2 [data-bs-target] {
+    
+    width: 10px;
+    height: 10px;
+    color: yellow;
+}
+/*slider 2*/
+
+/**/
+.black{
+	color:#17191e;
+
+
+}
+.c_all{
+	border:none;
+	border: 2px solid black;
+	
+
+}
+.c_all:focus {
+    box-shadow: none;
+    outline: 0;
+    border: none;
+    border: 2px solid black;
+}
+
+/*CONtact section*/
+.contact_form{
+	padding:80px 0 60px;
+}
+
+/*CONtact section*/
+
+
+/*...................*/
+/*contact us*/
+.contact_us {
+    padding: 80px 0 60px;
+    background-color: yellow;
+ 
+}
+.con_icon{
+	background-color: black;
+	width:80px;
+	height:70px;
+	color:white;
+
+}
+.con_icon i {
+    padding: 0;
+    margin-top: 25px;
+}
+.con_text p{
+	margin-top: 25px;
+}
+/*contact us*/
+/*footer*/
+footer{
+	background-color:black;
+}
+.footer_top p {
+    letter-spacing: 2px;
+    font-size: 20px;
+    margin-top: 100px;
+    color: white;
+}
+.footer_top span{
+	color:yellow;
+}
+
+.footer_body{
+	padding:30px 0 20px;
+}
+.footer_body a i{
+	color:white;
+	margin:0 10px;
+	margin-bottom: 50px;
+}
+.footer_body a:hover{
+	border-bottom: 1px solid yellow;
+}
+
+/*single btn*/
+.footer_end button{
+	background-color: yellow;
+	
+}
+.footer_end button a{
+	color:black;
+}
+.footer_body a :hover{
+	
+
+}
+
+/*single btn*/
+/*footer*/
+
